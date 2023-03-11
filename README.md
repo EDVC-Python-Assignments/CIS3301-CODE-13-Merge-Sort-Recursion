@@ -13,6 +13,6 @@ Your code will be tested using automated testing, but your final grade will be c
 
 ## Merge Sort Algorithm
 
-[Video about Merge Sort] (https://www.youtube.com/watch?v=4VqmGXwpLqc). https://www.youtube.com/watch?v=4VqmGXwpLqc
+[Video about Merge Sort](https://www.youtube.com/watch?v=4VqmGXwpLqc). https://www.youtube.com/watch?v=4VqmGXwpLqc
 ## Recursion
 In programming, recursion is an algorithmic method in which a function calls itself to operate. Implementing recursion can speed up algorithms (e.g., search, sort, optimization) that otherwise will have to implement nested loops, which decreases the efficiency. Recursion is a popular method utilized in algorithms that follow the divide and conquer algorithmic paradigm.
